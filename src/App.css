@@ -1,0 +1,82 @@
+
+a {
+  text-decoration: none !important ;
+  color: #000;
+}
+
+a > button {
+  font-size: 20px !important;
+  font-family: fantasy !important;
+}
+
+                          /* Icons1  */
+
+.icons1 > button {
+  background-color: rgb(221, 209, 195) !important;
+  margin-left:  5px;
+  margin-right: 5px;
+  border-radius: 3px;
+  height: 110px;
+  color: black ;
+}
+
+.login {
+  width:  500px;
+  border-radius: 5px;
+  padding: 5% 0;
+  background-color: rgb(228, 213, 213);
+ border: 1px solid snow;
+  margin:25px 33%;
+}
+
+                                   /* AvatarIcons */
+
+.avatar-icons {
+  /* overflow-y: scroll; */
+  display: flex;
+  width: 100%;
+}
+
+.avatar-icons > div {
+  width: 100px;
+  height: 100px;  
+}
+
+.input-color1 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #000;
+}
+.input-color2 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: rgb(237, 228, 228);
+}
+.input-color3 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: rgb(57, 160, 23);
+}
+
+
+.img-list1 {
+  width: 100%;
+  height: 500px;
+  background-image: url('https://img.ltwebstatic.com/images3_ach/2022/04/25/165085534350d94af6faaf0cfc6ddb21e8d5f7356c.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  background-color: slategray;
+}
+
+.input-checkbox {
+  width: 20px;
+  height: 20px;
+  border-radius: 90%;
+  border: #000;
+
+}
+

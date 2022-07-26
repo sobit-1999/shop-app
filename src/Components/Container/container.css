@@ -1,0 +1,15 @@
+.icons-name {
+text-align: center;
+}
+
+.curve-list {
+    text-align: center;
+}
+
+.card-imgs {
+    border: 2px solid 'black';
+}
+
+.savatcha {
+    display: flex;
+}
